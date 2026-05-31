@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boyatechuniverse
+- 👋 Hi, I’m @boyatechuniverse working for Tencent
 - 👀 I’m interested in tech and AI
 - 🌱 I’m currently learning how to make agent.
 - 💞️ I’m looking to collaborate on coding.
